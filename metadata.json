@@ -1,0 +1,7 @@
+{
+  "name": "EducaAI Ecuador - Tutoría Inteligente",
+  "description": "Plataforma de tutoría inteligente con voz femenina ecuatoriana para refuerzo conceptual, evaluación de procedimientos y gestión de informes finales integrada con Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
